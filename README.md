@@ -1,7 +1,5 @@
 # Evaluating Healthcare Voice Agents with a Patient-Care Rubric
 
-## Project Summary
-
 This project automatically evaluates voice-agent phone calls against the dimensions that
 matter for patient care. In July, 50 test calls were placed against a demo clinic agent
 using an adversarial harness ([Voice Bot Bug Finder](https://saraogee.com/VoiceBotBugFinder))
