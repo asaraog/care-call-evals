@@ -1,0 +1,40 @@
+TRANSCRIPT - scenario 02  |  call_02_CA6aa2cd.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.5] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.3] Speaker 0: Am I speaking with Maria?
+[00:13.3] Speaker 0: No, this is actually James Wilson.
+[00:17.4] Speaker 0: Thanks for letting me know, James.
+[00:19.1] Speaker 0: Are you calling for yourself or for someone else today?
+[00:23.2] Speaker 0: I'm calling for myself.
+[00:25.0] Speaker 0: I'd like to reschedule my appointment.
+[00:29.2] Speaker 0: Please provide your date of birth.
+[00:32.2] Speaker 0: Sure.
+[00:33.0] Speaker 0: It's June 3rd, 1970.
+[00:38.8] Speaker 0: Just to confirm, can you please spell your first and last name for me?
+[00:42.4] Speaker 0: And your date of birth is June 3rd, 1970, correct?
+[00:47.6] Speaker 0: Yes, that's correct.
+[00:49.1] Speaker 0: Wilson is W-I-L-S-O-N.
+[00:56.2] Speaker 0: Would you like to use your phone number to look up your record?
+[00:59.3] Speaker 0: If so, please tell me the number you have on file with us.
+[01:02.3] Speaker 0: If you're not sure, I can confirm your name and date of birth again.
+[01:05.6] Speaker 0: Which would you prefer?
+[01:08.2] Speaker 0: Let's use my phone number.
+[01:09.6] Speaker 0: It's 555-123-4567.
+[01:16.6] Speaker 0: I have your phone number as 555-123-4567, and your date of birth is June 3, 1970.
+[01:24.4] Speaker 0: Is that correct?
+[01:28.0] Speaker 0: Yes, that's correct.
+[01:29.4] Speaker 0: Could you let me know the closest available time on Thursday?
+[01:32.1] Speaker 0: I can't proceed further right now, but I can make sure our clinic support team follows up with you.
+[01:40.9] Speaker 0: Please hold while I connect you to our patient support team.
+[01:44.4] Speaker 0: Connecting you to a representative.
+[01:46.6] Speaker 0: Please wait.
+[01:48.5] Speaker 0: Hello.
+[01:48.8] Speaker 0: Understood.
+[01:49.4] Speaker 0: You've reached the printed AI test line.
+[01:51.7] Speaker 0: Goodbye.
+[01:54.2] Speaker 0: Thank you.

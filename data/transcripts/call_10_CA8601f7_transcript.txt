@@ -1,0 +1,39 @@
+TRANSCRIPT - scenario 10  |  call_10_CA8601f7.mp3
+Engine: Azure AI Speech (hi-IN, en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0 [en-US]: This call may be recorded for quality and training purposes.
+[00:06.2] Speaker 0 [en-US]: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.6] Speaker 0 [en-US]: Am I speaking with Maria?
+[00:13.5] Speaker 0 [en-US]: No, this is not Maria.
+[00:15.8] Speaker 0 [en-US]: I'm Maria Garcia.
+[00:20.2] Speaker 0 [en-US]: Please provide your date of birth.
+[00:23.4] Speaker 0 [en-US]: Sure.
+[00:24.6] Speaker 0 [en-US]: My date of birth is March 12th, 1985.
+[00:32.8] Speaker 0 [en-US]: Just to confirm, can you please spell your first and last name for me?
+[00:37.8] Speaker 0 [en-US]: Sure.
+[00:38.4] Speaker 0 [en-US]: It's Maria Garcia.
+[00:40.0] Speaker 0 [en-US]: M-A-R-I-A-G-A-R-C-I-A.
+[00:47.3] Speaker 0 [en-US]: Would you like to use your phone number to look up your record?
+[00:49.8] Speaker 0 [en-US]: If so, please provide the number you have on file with us.
+[00:53.1] Speaker 0 [en-US]: If you're not sure, let me know and I'll confirm your name and date of birth again.
+[00:58.6] Speaker 0 [en-US]: Sure.
+[00:59.2] Speaker 0 [en-US]: My number is 555-123-4567.
+[01:07.2] Speaker 0 [en-US]: I have your phone number as 555-123-4567 and your date of birth as March 12, 1985.
+[01:16.5] Speaker 0 [en-US]: Is that correct?
+[01:19.6] Speaker 0 [en-US]: Yes, that is correct.
+[01:26.2] Speaker 0 [en-US]: I can't proceed further right now, but I can make sure our clinic support team follows up with you.
+[01:31.1] Speaker 0 [en-US]: Would you like me to connect you to our patient support team?
+[01:35.0] Speaker 0 [en-US]: Yes, that would be helpful.
+[01:36.6] Speaker 0 [en-US]: Thank you.
+[01:40.6] Speaker 0 [en-US]: Connecting you to a representative.
+[01:42.7] Speaker 0 [en-US]: Please wait.
+[01:44.9] Speaker 0 [en-US]: Hello.
+[01:45.2] Speaker 0 [en-US]: Okay.
+[01:45.8] Speaker 0 [en-US]: You've reached the pretty good AI test line.
+[01:48.1] Speaker 0 [en-US]: Goodbye.
+[01:50.5] Speaker 0 [en-US]: Wait, I was connected to the wrong line.
+[01:52.9] Speaker 0 [en-US]: I'll call back later.
+[01:53.9] Speaker 0 [en-US]: Thank you.

@@ -1,0 +1,35 @@
+TRANSCRIPT - scenario 10  |  call_10_CAb59418.mp3
+Engine: Azure AI Speech (hi-IN, en-US)  |  dual-channel split (ch0=agent, ch1=caller)
+============================================================
+
+NOTE: Caller spoke Hindi throughout; agent responded only in English and never
+acknowledged the language barrier or offered an interpreter.
+
+[00:00.1] Agent [en-US]: This call may be recorded for quality and training purposes.
+[00:03.5] Agent [en-US]: Thanks for calling Pivot Point Orthopedics.
+[00:08.7] Agent [en-US]: Part of Pretty Good AI.
+[00:10.4] Agent [en-US]: Am I speaking with Maria?
+[00:13.4] Caller [hi-IN]: नमस्ते, मुझे एक अपॉइंटमेंट चाहिए, मुझे क्षेत्रा करके कहीं के लिए 1 दिन में अपॉइंटमेंट चाहिए क्या आप मेरी मदद कर सकते हैं।
+[00:19.0] Agent [en-US]: Can you please provide your date of birth?
+[00:37.4] Agent [en-US]: I'll need your date of birth to look up your information.
+[00:40.2] Agent [en-US]: Could you please provide that?
+[00:43.0] Caller [hi-IN]: ठीक है, मेरा डेट ऑफ बर्थ है 12 मार्च 1985 मेरा पूरा नाम मरिया गार्सिया है।
+[00:50.3] Agent [en-US]: I'll need your full name along with your date of birth to find your information.
+[00:54.4] Agent [en-US]: Could you please tell me your first and last name?
+[01:03.7] Agent [en-US]: I can help with appointments.
+[01:05.3] Agent [en-US]: Are you looking to book, reschedule, or cancel an appointment?
+[01:10.6] Caller [hi-IN]: मैं एक नई अपॉइंटमेंट बुक करना चाहती हूँ, मुझे 12 मार्च 1945 देना था।
+[01:15.6] Agent [en-US]: Please provide your date of birth.
+[01:32.4] Agent [en-US]: I'll need both your first and last name, along with your date of birth, to look up your information.
+[01:37.0] Agent [en-US]: Could you please provide your full name?
+[01:40.8] Caller [hi-IN]: मेरा पूरा नाम मरिया गार्सिया है।
+[01:53.2] Agent [en-US]: I need your full name, first and last, along with your date of birth to find your information.
+[01:58.7] Agent [en-US]: Could you please provide your full name?
+[02:02.3] Caller [hi-IN]: मेरा पूरा नाम मरिया गासिया है। डेट ऑफ बर्थ 12 मार्च 1981 मेरा पूरा नाम मरिया गासिया है।
+[02:12.1] Agent [en-US]: I still need your full name, first and last, to look up your information.
+[02:16.0] Agent [en-US]: Could you please provide your full name?
+[02:32.2] Agent [en-US]: Something's not right.
+[02:33.5] Agent [en-US]: I'm unable to verify your information at the moment, so I can't proceed with booking your appointment.
+[02:39.2] Agent [en-US]: Would you like me to have our clinic support team follow up with you?
+[02:42.4] Agent [en-US]: Are you still there?
+[02:44.9] Caller [hi-IN]: ठीक है।

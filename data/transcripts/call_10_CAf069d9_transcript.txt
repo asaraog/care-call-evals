@@ -1,0 +1,19 @@
+TRANSCRIPT - scenario 10  |  call_10_CAf069d9.mp3
+Engine: Azure AI Speech (hi-IN, en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0 [en-US]: This call may be recorded for quality and training purposes.
+[00:06.2] Speaker 0 [en-US]: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.8] Speaker 0 [en-US]: Am I speaking with Maria?
+[00:13.4] Speaker 0 [en-US]: Namaste.
+[00:14.5] Speaker 0 [en-US]: Hello, this is Pivot Point Orthopedics.
+[00:27.9] Speaker 0 [en-US]: Am I speaking with Maria?
+[00:29.7] Speaker 0 [en-US]: How can I help you today?
+[00:34.2] Speaker 0 [en-US]: Hi, Maria.
+[00:36.6] Speaker 0 [en-US]: Thanks for calling Pivot Point Orthopedics.
+[00:52.5] Speaker 0 [en-US]: How can I help you today?
+[00:55.1] Speaker 0 [en-US]: I do not know English, only Hindi.
+[00:59.6] Speaker 0 [en-US]: I'm sorry, but I can only assist in English, Spanish, Chinese, Russian, or Japanese.
+[01:04.3] Speaker 0 [en-US]: If you need help in one of those languages, let me know.

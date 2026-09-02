@@ -1,0 +1,31 @@
+TRANSCRIPT - scenario 09  |  call_09_CAbc4e00.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.2] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.5] Speaker 0: Thanks for calling Kivot Point Orthopedics, part of Pretty Good AI.
+[00:10.4] Speaker 0: Am I speaking with Maria?
+[00:13.2] Speaker 0: Oh, I'm sorry.
+[00:14.2] Speaker 0: I think you might have the wrong place.
+[00:16.1] Speaker 0: This is Maria Garcia.
+[00:17.6] Speaker 0: Could you still help me with a prescription refill?
+[00:26.0] Speaker 0: Please provide your date of birth.
+[00:29.2] Speaker 0: Sure.
+[00:29.6] Speaker 0: It's March 12th, 1985.
+[00:35.9] Speaker 0: Which medication do you need refilled today?
+[00:40.1] Speaker 0: It's for my blood pressure medication.
+[00:45.1] Speaker 0: What is the exact name of your blood pressure medication?
+[00:49.8] Speaker 0: It's Lisinopril.
+[00:53.1] Speaker 0: How many days of Lisinopril do you have left?
+[00:55.6] Speaker 0: If you are already out, just let me know.
+[00:59.4] Speaker 0: I believe I have about two days left.
+[01:04.3] Speaker 0: I have two days left for lisinopro.
+[01:06.9] Speaker 0: What is the best phone number for the clinic to call you back if they have questions?
+[01:10.9] Speaker 0: I have your number as 555-010-0000.
+[01:17.4] Speaker 0: Is that correct?
+[01:19.7] Speaker 0: Yes, that's correct.
+[01:24.2] Speaker 0: Is there anything else you'd like the clinic to know about your refill request?
+[01:27.7] Speaker 0: For example, any symptoms or concerns?
+[01:32.1] Speaker 0: No, that's.

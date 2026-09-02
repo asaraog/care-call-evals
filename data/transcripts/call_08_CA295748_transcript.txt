@@ -1,0 +1,68 @@
+TRANSCRIPT - scenario 08  |  call_08_CA295748.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.4] Speaker 0: Thanks for letting me know.
+[00:06.1] Speaker 0: Thank you for letting me know.
+[00:08.4] Speaker 0: Part of Pretty Good AI.
+[00:10.2] Speaker 0: Am I speaking with Maria?
+[00:12.2] Speaker 0: Yes, I'm Maria Garcia.
+[00:14.6] Speaker 0: Sorry, how long is the wait?
+[00:15.7] Speaker 0: Please provide your date of birth.
+[00:17.9] Speaker 0: Sure.
+[00:18.7] Speaker 0: My date of birth is March 12th, 1985.
+[00:21.8] Speaker 0: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:32.6] Speaker 0: How could I help you today?
+[00:33.8] Speaker 0: Okay.
+[00:34.0] Speaker 0: Thank you for understanding.
+[00:35.0] Speaker 0: I'm trying to schedule an appointment for next Tuesday.
+[00:37.4] Speaker 0: Of course.
+[00:48.1] Speaker 0: What is the main reason for your visit?
+[00:50.5] Speaker 0: For example, is this for a routine checkup, a new patient consultation, a follow-up, or something urgent?
+[00:57.5] Speaker 0: It's for a follow-up.
+[01:07.4] Speaker 0: It looks like you already have a follow-up appointment booked.
+[01:10.6] Speaker 0: If you want to reschedule or cancel it, I can help with that.
+[01:14.6] Speaker 0: Would you like to make a change to your existing appointment?
+[01:18.4] Speaker 0: Yes, I'd like to reschedule to next Tuesday.
+[01:23.0] Speaker 0: I can't reschedule directly, but I can connect you to a live support agent who can help move your appointment to next Tuesday.
+[01:30.7] Speaker 0: Would you like me to transfer you now?
+[01:33.3] Speaker 0: Yes, please transfer me now.
+[01:38.4] Speaker 0: I can connect you to our patient support team.
+[01:41.0] Speaker 0: However, I'm a pretty good AI and can do many of the things an operator can.
+[01:45.8] Speaker 0: Do you want to give me a try?
+[01:48.0] Speaker 0: Sure, let's give it a try.
+[01:54.0] Speaker 0: You have a follow-up appointment on Monday, July 6th at 11 a.m.
+[01:58.7] Speaker 0: and a new patient appointment on Thursday, July 16th at noon.
+[02:03.5] Speaker 0: Which one would you like to reschedule?
+[02:04.8] Speaker 0: Wait.
+[02:05.0] Speaker 0: Is there parking there?
+[02:06.3] Speaker 0: Let's move the follow-up to next Tuesday.
+[02:12.1] Speaker 0: Next Tuesday, July 7th, I have openings at 9 a.m.
+[02:15.2] Speaker 0: and 11 a.m.
+[02:16.0] Speaker 0: for your follow-up in Nashville.
+[02:17.8] Speaker 0: Would either of those times work for you?
+[02:20.7] Speaker 0: Yes, the 9 a.m.
+[02:22.0] Speaker 0: slot works.
+[02:24.7] Speaker 0: Great.
+[02:25.2] Speaker 0: Can you tell me the reason you need to reschedule your follow-up appointment?
+[02:29.8] Speaker 0: It's because of a conflict I have on Monday.
+[02:34.5] Speaker 0: You'd like to move your follow-up appointment to Tuesday, July 7th at 9 a.m.
+[02:38.6] Speaker 0: in Nashville because of a scheduled conflict on Monday?
+[02:41.8] Speaker 0: Is that correct?
+[02:43.6] Speaker 0: Yes, that's correct.
+[02:50.8] Speaker 0: Your follow-up appointment is now set for Tuesday, July 7th at 9 a.m.
+[02:54.7] Speaker 0: with Dr.
+[02:55.3] Speaker 0: Doogie-Hauser.
+[02:56.6] Speaker 0: Would you like me to send you a text message with these details?
+[03:00.2] Speaker 0: Yes, that would be great.
+[03:01.7] Speaker 0: Thank you.
+[03:06.9] Speaker 0: I sent the appointment details to your phone.
+[03:09.6] Speaker 0: Is there anything else I can help you with today?
+[03:12.7] Speaker 0: No, that's all for now.
+[03:14.2] Speaker 0: Thank you.
+[03:17.1] Speaker 0: You're all set.
+[03:18.1] Speaker 0: Have a great day.
+[03:20.2] Speaker 0: Thank you.

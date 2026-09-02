@@ -1,0 +1,69 @@
+TRANSCRIPT - scenario 04  |  call_04_CA55a536.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.5] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.4] Speaker 0: Am I speaking with Maria?
+[00:13.4] Speaker 0: Yes.
+[00:14.2] Speaker 0: This is Maria Garcia.
+[00:18.7] Speaker 0: Please provide your date of birth.
+[00:21.9] Speaker 0: Sure.
+[00:22.6] Speaker 0: It's March 12th, 1985.
+[00:27.6] Speaker 0: Thanks, Maria.
+[00:28.7] Speaker 0: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:33.5] Speaker 0: How can I help you today?
+[00:36.4] Speaker 0: I'd like to confirm my insurance coverage.
+[00:43.6] Speaker 0: You currently do not have any insurance on file with us.
+[00:47.0] Speaker 0: Would you like to add your insurance by uploading photos of your car?
+[00:50.6] Speaker 0: I can send a text link to the number ending in 3305.
+[00:54.5] Speaker 0: Is that okay?
+[00:57.0] Speaker 0: Actually, I'm not sure about uploading photos of my car.
+[01:00.3] Speaker 0: Could you clarify if you need my insurance details another way?
+[01:07.6] Speaker 0: No problem.
+[01:08.8] Speaker 0: I can help you confirm your insurance coverage by collecting your insurance details over the phone.
+[01:14.1] Speaker 0: What is the name of your insurance company and plan?
+[01:19.0] Speaker 0: It's Blue Cross Blue Shield PPO.
+[01:23.9] Speaker 0: What is your member ID number as shown on your insurance card?
+[01:29.9] Speaker 0: It's BCBS 6653120.
+[01:36.9] Speaker 0: Is there a group number listed on your card?
+[01:39.1] Speaker 0: If so, please provide it.
+[01:40.8] Speaker 0: If not, just let me know.
+[01:44.2] Speaker 0: Yes, the group number is 98765.
+[01:51.7] Speaker 0: Which state is your insurance plan issued in?
+[01:55.9] Speaker 0: It's issued in California.
+[01:60.0] Speaker 0: What is the effective date listed on your insurance card?
+[02:04.6] Speaker 0: It's effective from January 1st, 2024.
+[02:11.4] Speaker 0: Is there a claims mailing address or P.O.
+[02:14.2] Speaker 0: Box listed on the back of your card?
+[02:16.4] Speaker 0: If so, please provide it.
+[02:18.5] Speaker 0: If not, just let me know.
+[02:21.7] Speaker 0: Yes, the address is P.O.
+[02:23.3] Speaker 0: Box 981006, Dallas, Texas, 75398.
+[02:31.3] Speaker 0: Is there a phone number printed on your insurance card?
+[02:33.9] Speaker 0: If so, please provide it.
+[02:35.7] Speaker 0: If not, just let me know.
+[02:39.7] Speaker 0: Yes, the phone number is on the card, 1-800-XXX-1234.
+[03:10.0] Speaker 0: There are several Blue Cross Blue Shield PPO plans accepted.
+[03:14.1] Speaker 0: I'll read a few plan names to help narrow it down.
+[03:17.0] Speaker 0: Do you see any of these on your card?
+[03:19.1] Speaker 0: Blue Shield of California, Blue Cross of California Unicare, Blue Cross of California Keenan, or Blue Cross of California Personify Health.
+[03:28.3] Speaker 0: If not, let me know what's printed near the plan name or logo.
+[03:33.4] Speaker 0: It's Blue Shield of California.
+[03:38.6] Speaker 0: I'll use Blue Shield of California PPO for your insurance.
+[03:42.6] Speaker 0: Before I update your records, here's what to expect.
+[03:45.4] Speaker 0: Scheduled procedures may need new authorizations, which can take about one to two weeks.
+[03:50.2] Speaker 0: The office will update your records and contact you after verifying coverage.
+[03:54.7] Speaker 0: Medication refills may also require prior authorization.
+[03:58.2] Speaker 0: Would you like to proceed with adding this insurance as your primary coverage?
+[04:03.8] Speaker 0: Yes, let's proceed.
+[04:11.4] Speaker 0: Your Blue Shield of California PPO insurance has been added as your primary coverage.
+[04:16.3] Speaker 0: The office will verify your eligibility and contact you if anything else is needed.
+[04:21.7] Speaker 0: Is there anything else I can help you with?
+[04:24.8] Speaker 0: No, that's all for now.
+[04:26.4] Speaker 0: Thank you.
+[04:29.8] Speaker 0: You're all set, Maria.
+[04:31.2] Speaker 0: Have a great day.
+[04:34.0] Speaker 0: Thank you.

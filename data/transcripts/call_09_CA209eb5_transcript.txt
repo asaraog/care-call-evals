@@ -1,0 +1,54 @@
+TRANSCRIPT - scenario 09  |  call_09_CA209eb5.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:06.1] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of pretty good AI.
+[00:10.3] Speaker 0: Am I speaking with Maria?
+[00:13.4] Speaker 0: Oh, sorry.
+[00:15.4] Speaker 0: I think I called CVS Pharmacy, but yes, I'm Maria Garcia, March 12th, 1985.
+[00:21.4] Speaker 0: Could you help with my prescription refill?
+[00:25.0] Speaker 0: Just to confirm, your date of birth is March 12th, 1985?
+[00:30.6] Speaker 0: Yes, that's correct.
+[00:32.6] Speaker 0: Thank you for confirming.
+[00:35.8] Speaker 0: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:40.6] Speaker 0: How can I help you today?
+[00:43.4] Speaker 0: I'm looking for an update on my prescription status.
+[00:46.2] Speaker 0: Can you tell me where we are with that?
+[00:51.0] Speaker 0: Which medication are you asking about for this update?
+[00:55.4] Speaker 0: It's for my blood pressure medication.
+[00:59.8] Speaker 0: What is the exact name of your blood pressure medication?
+[01:04.0] Speaker 0: It's Lisinopril.
+[01:07.4] Speaker 0: How many days of Lisinopril do you have left?
+[01:10.4] Speaker 0: If you are already out, just let me know.
+[01:14.7] Speaker 0: I'm actually running low, probably just a couple of days left.
+[01:20.5] Speaker 0: I'll note that you have about two days left.
+[01:23.5] Speaker 0: Can I confirm your callback number as 669-201-533?
+[01:28.1] Speaker 0: 3305.
+[01:31.7] Speaker 0: Yes, that's correct.
+[01:33.4] Speaker 0: That's my number.
+[01:36.4] Speaker 0: Is there anything else you'd like the staff to know about your refill request?
+[01:39.9] Speaker 0: Any symptoms, urgency, or other details?
+[01:45.5] Speaker 0: No symptoms.
+[01:46.6] Speaker 0: Just hoping for the refill soon.
+[01:48.6] Speaker 0: Thank you.
+[01:53.0] Speaker 0: Could you please tell me the name of the pharmacy you want to use for your medication?
+[01:57.4] Speaker 0: If you know the address, city, or any details like cross streets or nearby stores, that would help too.
+[02:03.6] Speaker 0: If you have their phone or fax number, please share that as well.
+[02:08.2] Speaker 0: I'd like to use the CVS Pharmacy on Main Street near the grocery store.
+[02:13.4] Speaker 0: Their phone number is 555-0199.
+[02:22.0] Speaker 0: Could you tell me the city and state where the CVS Pharmacy is located?
+[02:25.8] Speaker 0: If you know the zip code, that works too.
+[02:28.1] Speaker 0: This will help make sure we have the right location.
+[02:32.1] Speaker 0: It's in San Jose, California, 95112.
+[03:00.2] Speaker 0: I've documented your request for a prescription update and sent it to our clinic support team.
+[03:04.9] Speaker 0: They'll get back to you as soon as they can.
+[03:07.1] Speaker 0: Is there anything else I can help you with right now?
+[03:10.8] Speaker 0: Thank you.
+[03:11.4] Speaker 0: That's all for now.
+[03:14.4] Speaker 0: You're all set.
+[03:15.4] Speaker 0: The clinic team will follow up soon.
+[03:17.8] Speaker 0: Have a great day.
+[03:20.3] Speaker 0: Thanks.

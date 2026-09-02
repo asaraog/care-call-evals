@@ -1,0 +1,72 @@
+TRANSCRIPT - scenario 06  |  call_06_CA686f99.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.5] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11.2] Speaker 0: Am I speaking with Maria?
+[00:14.9] Speaker 0: Yes.
+[00:15.5] Speaker 0: This is Maria Garcia.
+[00:17.0] Speaker 0: Thank you for confirming.
+[00:21.2] Speaker 0: Please provide your date of birth.
+[00:24.7] Speaker 0: Sure.
+[00:25.5] Speaker 0: My date of birth is March 12th, 1985.
+[00:31.6] Speaker 0: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:36.6] Speaker 0: How can I help you today?
+[00:39.4] Speaker 0: Thank you.
+[00:40.2] Speaker 0: I'd like to request a refill of my cholesterol medication, atorvastatin 20 milligrams.
+[00:51.9] Speaker 0: How many days of atorvastatin do you have left?
+[00:55.8] Speaker 0: I have about three days left.
+[00:60.0] Speaker 0: I have your number as 555-010-0000.
+[01:05.5] Speaker 0: Is that correct for a callback?
+[01:08.5] Speaker 0: Yes, that's correct.
+[01:10.1] Speaker 0: That's my number.
+[01:12.5] Speaker 0: Is there anything else you'd like the clinic to know about your refill request?
+[01:16.1] Speaker 0: For example, any symptoms or concerns?
+[01:20.1] Speaker 0: Not at the moment.
+[01:21.2] Speaker 0: Everything's stable.
+[01:26.6] Speaker 0: Could you please provide the name of the pharmacy you want to use for your medication refill?
+[01:31.1] Speaker 0: If you know the address, city, or any details like cross streets or nearby stores, that would help too.
+[01:36.4] Speaker 0: If you have their phone or fax number, please share that as well.
+[01:41.0] Speaker 0: I use the Walgreens on Main Street.
+[01:43.1] Speaker 0: The address is 123 Main, and the phone number is 555-0198.
+[01:51.8] Speaker 0: Could you tell me the city and state for this Walgreens on Main Street?
+[01:55.5] Speaker 0: If you know the zip code that works too.
+[01:57.6] Speaker 0: This will help make sure your pharmacy is updated correctly.
+[02:02.6] Speaker 0: Sure.
+[02:03.1] Speaker 0: It's in Springfield, Illinois, and the zip code is 62704.
+[02:26.9] Speaker 0: I've documented your refill request for atorvastatin and sent it to our clinic support team.
+[02:32.6] Speaker 0: They'll get back to you as soon as they can.
+[02:34.8] Speaker 0: Is there anything else I can help you with right now?
+[02:38.3] Speaker 0: Yes.
+[02:39.2] Speaker 0: I'd like to schedule a follow-up appointment with Dr.
+[02:41.7] Speaker 0: Smith in about two weeks.
+[02:45.5] Speaker 0: We don't have a provider named Dr.
+[02:47.1] Speaker 0: Smith at Pivot Point Orthopedics.
+[02:49.6] Speaker 0: Would you like to schedule with Dr.
+[02:51.0] Speaker 0: Hauser, Dr.
+[02:52.1] Speaker 0: Ross, or Dr.
+[02:52.8] Speaker 0: Bricker instead?
+[02:55.9] Speaker 0: I see.
+[02:57.4] Speaker 0: Could you check the schedule for Dr.
+[02:59.0] Speaker 0: Hauser in two weeks?
+[03:03.0] Speaker 0: Just to confirm, is this follow-up related to your cholesterol medication or another concern?
+[03:10.6] Speaker 0: It's mainly for the cholesterol follow-up.
+[03:18.6] Speaker 0: It looks like you already have a cholesterol follow-up appointment booked.
+[03:22.6] Speaker 0: If you want to reschedule or cancel it, I can help with that, or I can connect you to live support.
+[03:28.5] Speaker 0: What would you like to do?
+[03:33.6] Speaker 0: Please help me reschedule it for two weeks from now.
+[03:38.2] Speaker 0: I can help with rescheduling.
+[03:40.1] Speaker 0: Could you tell me the date and time of your current appointment, or would you like me to look for the next available slot with Dr.
+[03:45.3] Speaker 0: Hauser in about two weeks?
+[03:49.4] Speaker 0: Yes.
+[03:51.3] Speaker 0: Please look for the next available slot with Dr.
+[03:55.4] Speaker 0: Hauser in two weeks.
+[04:01.6] Speaker 0: I can't book this follow-up appointment directly right now, but I'll let our clinic support team know so they can help you.
+[04:07.9] Speaker 0: They'll get back to you as soon as possible.
+[04:10.0] Speaker 0: Would you like to add any details about your follow-up request?
+[04:15.1] Speaker 0: No.
+[04:16.6] Speaker 0: So that's all.
+[04:17.8] Speaker 0: Thank you for your help.

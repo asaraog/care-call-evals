@@ -1,0 +1,41 @@
+TRANSCRIPT - scenario 06  |  call_06_CA8aef09.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.2] Speaker 0: This call may be recorded for quality and training purposes.
+[00:06.2] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.8] Speaker 0: Am I speaking with Maria?
+[00:13.8] Speaker 0: Actually, my name is Maria Garcia.
+[00:23.6] Speaker 0: Please provide your date of birth.
+[00:26.8] Speaker 0: Sure.
+[00:27.5] Speaker 0: It's March 12th, 1985.
+[00:34.5] Speaker 0: Just to confirm, I have your name as Maria Garcia and your date of birth as March 12, 1985.
+[00:40.5] Speaker 0: Is that correct?
+[00:41.9] Speaker 0: If so, could you please spell your first and last name for me?
+[00:46.0] Speaker 0: Yes, that's correct.
+[00:47.3] Speaker 0: It's Maria Garcia, spelled G-A-R-C-I-A.
+[00:56.0] Speaker 0: Would you like to use your phone number to look up your record?
+[00:58.7] Speaker 0: If so, please provide the number you have on file with us.
+[01:02.0] Speaker 0: If you're not sure, just confirm your first and last name and date of birth for me one more time.
+[01:07.8] Speaker 0: I can provide my phone number.
+[01:09.7] Speaker 0: It's 555-0123.
+[01:16.4] Speaker 0: I have your phone number as 555-0123.
+[01:19.7] Speaker 0: Is that correct?
+[01:22.4] Speaker 0: Yes, that's correct.
+[01:28.6] Speaker 0: Just to confirm, your phone number is 555-0123, and your date of birth is March 12, 1985.
+[01:37.4] Speaker 0: Is that all correct?
+[01:40.1] Speaker 0: Yes, that's all correct.
+[01:46.5] Speaker 0: I can't proceed further right now, but I can make sure our clinic support team follows up with you.
+[01:51.4] Speaker 0: Would you like me to connect you to our patient support team?
+[01:55.7] Speaker 0: Yes, that would be helpful.
+[01:57.2] Speaker 0: Thank you.
+[02:00.4] Speaker 0: Connecting you to a representative.
+[02:02.4] Speaker 0: Please wait.
+[02:04.7] Speaker 0: Hello.
+[02:05.0] Speaker 0: Sure, hold on.
+[02:05.7] Speaker 0: You've reached a pretty good AI test line.
+[02:07.8] Speaker 0: Goodbye.
+[02:09.9] Speaker 0: Oh, it seems I've been disconnected.
+[02:12.2] Speaker 0: Could you please connect me back to the support team?

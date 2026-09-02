@@ -1,0 +1,38 @@
+TRANSCRIPT - scenario 01  |  call_01_CA2a6139.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:06.1] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.9] Speaker 0: Am I speaking with Maria?
+[00:14.5] Speaker 0: Actually, my name is Maria Garcia.
+[00:17.0] Speaker 0: Yes, that's me.
+[00:20.9] Speaker 0: Please provide your date of birth.
+[00:24.2] Speaker 0: Sure.
+[00:25.0] Speaker 0: My date of birth is March 12th, 1985.
+[00:30.7] Speaker 0: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:35.6] Speaker 0: How can I help you today?
+[00:38.4] Speaker 0: I'd like to book my first visit, please.
+[00:44.3] Speaker 0: You'd like to schedule your first visit as a new patient, is that right?
+[00:51.8] Speaker 0: Yes, that's correct.
+[00:56.4] Speaker 0: Do you have a specific provider you'd like to see, or are you open to the first available?
+[01:02.3] Speaker 0: I'm open to the first available.
+[01:11.3] Speaker 0: It looks like you already have a new patient appointment booked.
+[01:14.4] Speaker 0: Would you like to reschedule or cancel that appointment?
+[01:17.1] Speaker 0: If you need help with something else, let me know.
+[01:23.8] Speaker 0: I wasn't aware.
+[01:24.6] Speaker 0: It might be under my name.
+[01:26.2] Speaker 0: Could you tell me the date?
+[01:29.8] Speaker 0: I don't have access to the exact date of your existing appointment.
+[01:32.9] Speaker 0: I recommend speaking with a team member who can look up those details for you.
+[01:36.7] Speaker 0: Would you like me to transfer you to live support now?
+[01:41.3] Speaker 0: Yes, that would be great.
+[01:43.0] Speaker 0: Thank you.
+[01:46.6] Speaker 0: Connecting you to a representative.
+[01:48.5] Speaker 0: Please wait.
+[01:50.5] Speaker 0: Hello.
+[01:51.4] Speaker 0: You've reached the pretty good AI test line.
+[01:53.7] Speaker 0: Goodbye.
+[01:56.4] Speaker 0: Thank you.

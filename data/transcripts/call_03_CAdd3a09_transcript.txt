@@ -1,0 +1,64 @@
+TRANSCRIPT - scenario 03  |  call_03_CAdd3a09.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.5] Speaker 0: Thanks for calling Pivot Point Orthopedics.
+[00:08.6] Speaker 0: Part of Pretty Good AI.
+[00:10.2] Speaker 0: Am I speaking with Maria?
+[00:13.5] Speaker 0: Yes.
+[00:14.2] Speaker 0: This is Maria Garcia.
+[00:18.4] Speaker 0: Please provide your date of birth.
+[00:21.6] Speaker 0: Sure.
+[00:22.5] Speaker 0: My date of birth is March 12th, 1985.
+[00:28.5] Speaker 0: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:32.6] Speaker 0: How can I help you today?
+[00:35.6] Speaker 0: I need refills for lisinopril 10 milligrams and atorvastatin 20 milligrams.
+[00:47.4] Speaker 0: Which one would you like to refill right now?
+[00:49.6] Speaker 0: Lisinopro, 10 milligrams, or 20 milligrams?
+[00:54.8] Speaker 0: Lisinopril 10 milligrams, and also atorvastatin 20 milligrams.
+[01:01.0] Speaker 0: Let's start with lisinopril 10 milligrams.
+[01:03.6] Speaker 0: How many days of this medication do you have left?
+[01:07.5] Speaker 0: I have about three days left.
+[01:12.1] Speaker 0: What is the best phone number for staff to call you back about this refill?
+[01:16.0] Speaker 0: I have your number as 555-010-0000.
+[01:21.4] Speaker 0: Is that correct?
+[01:23.7] Speaker 0: Yes, that's correct.
+[01:25.1] Speaker 0: Do you have any symptoms or anything else you'd like the staff to know about this refill request?
+[01:33.4] Speaker 0: No.
+[01:34.2] Speaker 0: Just the refills, please.
+[01:36.0] Speaker 0: Thank you.
+[01:39.6] Speaker 0: Could you please provide the name of the pharmacy you want to use for your medication refill?
+[01:44.5] Speaker 0: If you know the address, city, or any details like cross streets or nearby stores, that would help too.
+[01:50.2] Speaker 0: If you have their phone or fax number, please share that as well.
+[01:55.2] Speaker 0: I'd like to use CVS on Main Street.
+[01:57.9] Speaker 0: That's my preferred pharmacy.
+[02:02.5] Speaker 0: Can you tell me the city and state for the CVS on Main Street?
+[02:06.2] Speaker 0: If you know the zip code, that works too.
+[02:08.3] Speaker 0: This will help make sure your prescription goes to the right location.
+[02:13.0] Speaker 0: It's in Springfield, Illinois.
+[02:18.3] Speaker 0: I have several CVS locations in Springfield.
+[02:21.4] Speaker 0: Do you know if your Main Street pharmacy is near any landmarks, or do you know the zip code or cross street?
+[02:26.6] Speaker 0: If not, I can list a few options to help you pick the right one.
+[02:31.7] Speaker 0: It's near the courthouse at 62701.
+[02:37.4] Speaker 0: Thanks.
+[02:37.6] Speaker 0: That helps.
+[02:38.6] Speaker 0: I have two CDS locations in zip code 62701.
+[02:42.7] Speaker 0: One is at 2001 West Washington Street, and the other is at 211 East Carpenter Street.
+[02:51.5] Speaker 0: Are either of these your pharmacy?
+[02:54.7] Speaker 0: It's the one on West Washington Street, 2001.
+[03:00.3] Speaker 0: Just to confirm, your pharmacy is CVS at 2001 West Washington Street, Springfield, zip code 62701.
+[03:09.7] Speaker 0: Is that correct?
+[03:13.4] Speaker 0: Yes, that's correct.
+[03:14.9] Speaker 0: Thank you.
+[03:24.5] Speaker 0: I've documented your refill request for lisinopril 10-miligrams and 20-miligrams.
+[03:30.1] Speaker 0: Our clinic support team will review it and get back to you as soon as they can.
+[03:34.8] Speaker 0: Is there anything else I can help you with?
+[03:38.0] Speaker 0: No, that's all for now.
+[03:39.5] Speaker 0: Thank you.
+[03:42.4] Speaker 0: You're all set.
+[03:43.5] Speaker 0: The clinic team will follow up soon.
+[03:45.4] Speaker 0: Have a great day.
+[03:48.2] Speaker 0: Thank you.

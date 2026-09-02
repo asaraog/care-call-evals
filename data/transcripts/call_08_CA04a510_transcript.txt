@@ -1,0 +1,46 @@
+TRANSCRIPT - scenario 08  |  call_08_CA04a510.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.5] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.2] Speaker 0: Am I speaking with Maria?
+[00:13.0] Speaker 0: Yes, this is Maria Garcia.
+[00:18.4] Speaker 0: Please provide your date of birth.
+[00:21.6] Speaker 0: Sure.
+[00:22.1] Speaker 0: My date of birth is March 12, 1985.
+[00:28.1] Speaker 0: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:32.2] Speaker 0: How can I help you today?
+[00:35.0] Speaker 0: I'm calling to schedule an appointment.
+[00:37.2] Speaker 0: Also, can you tell me about the parking situation there?
+[00:43.2] Speaker 0: I can help you schedule an appointment.
+[00:45.3] Speaker 0: For parking details, I recommend asking the clinic staff directly when you arrive, as I don't have specific parking information.
+[00:53.4] Speaker 0: What kind of appointment would you like to book?
+[00:55.2] Speaker 0: Are you a new patient, or is this a follow-up or something else?
+[00:59.4] Speaker 0: Follow-up, next Tuesday, 10 a.m.
+[01:02.3] Speaker 0: Also, how long is the wait usually?
+[01:06.6] Speaker 0: You'd like to book a follow-up appointment next Tuesday at 10 a.m.
+[01:10.2] Speaker 0: Just to confirm, is this a follow-up for a recent visit or a specific concern?
+[01:14.3] Speaker 0: Wait times can vary, but most patients are seen within 15 minutes of their scheduled time.
+[01:21.3] Speaker 0: Yes.
+[01:22.6] Speaker 0: That works.
+[01:23.7] Speaker 0: Can you confirm the parking details, too?
+[01:29.1] Speaker 0: I don't have specific parking details for the clinic.
+[01:31.9] Speaker 0: For the most accurate information, please ask the front desk when you arrive or when they call to confirm your appointment.
+[01:38.8] Speaker 0: Let me check availability for a follow-up appointment next Tuesday at 10 a.m.
+[01:43.4] Speaker 0: It looks like you already have a follow-up appointment booked.
+[01:46.5] Speaker 0: If you want to reschedule or cancel it, I can connect you to a staff member for help.
+[01:51.8] Speaker 0: Would you like to do that?
+[01:53.1] Speaker 0: One moment while I check for openings next Tuesday at 10 a.m.
+[01:59.0] Speaker 0: No, that's fine.
+[02:01.4] Speaker 0: All right.
+[02:01.8] Speaker 0: I'll keep it.
+[02:02.3] Speaker 0: If you need anything else or want to make changes to your appointment, just let me know.
+[02:08.5] Speaker 0: That's all for now.
+[02:11.0] Speaker 0: Thank you.
+[02:12.6] Speaker 0: Take care, Maria.
+[02:14.0] Speaker 0: Have a great day.
+[02:16.4] Speaker 0: You're welcome.
+[02:16.8] Speaker 0: Thank you.

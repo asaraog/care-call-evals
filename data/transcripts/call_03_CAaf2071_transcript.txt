@@ -1,0 +1,8 @@
+TRANSCRIPT - scenario 03  |  call_03_CAaf2071.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.4] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.

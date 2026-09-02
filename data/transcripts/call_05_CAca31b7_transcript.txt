@@ -1,0 +1,50 @@
+TRANSCRIPT - scenario 05  |  call_05_CAca31b7.mp3
+Engine: Azure AI Speech (en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0: This call may be recorded for quality and training purposes.
+[00:03.5] Speaker 0: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.6] Speaker 0: Am I speaking with Maria?
+[00:13.4] Speaker 0: Yes.
+[00:14.2] Speaker 0: This is Maria Garcia.
+[00:19.8] Speaker 0: Please provide your date of birth.
+[00:23.0] Speaker 0: Sure.
+[00:23.8] Speaker 0: My date of birth is March 12th, 1985.
+[00:31.1] Speaker 0: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:35.8] Speaker 0: How can I help you today?
+[00:38.3] Speaker 0: I'm looking to schedule an appointment for this Sunday at 10 a.m.
+[00:41.7] Speaker 0: We did help with that.
+[00:46.2] Speaker 0: Can you tell me the reason for your visit?
+[00:48.4] Speaker 0: For example, is this for a routine checkup, a new patient consultation, a follow-up, or something else?
+[00:55.5] Speaker 0: It's for a follow-up appointment.
+[00:59.7] Speaker 0: Is this a general office visit for routine care, or do you have a specific concern or procedure in mind?
+[01:07.4] Speaker 0: It's for a routine follow-up.
+[01:11.4] Speaker 0: Just to confirm, you'd like to schedule a follow-up consultation.
+[01:15.1] Speaker 0: Is that correct?
+[01:18.0] Speaker 0: Yes, that's correct.
+[01:25.0] Speaker 0: There are no openings this Sunday, but we do have several options on Monday, July 6th.
+[01:30.5] Speaker 0: Would you like to book an appointment at 11 A.m.
+[01:32.4] Speaker 0: with Doogie Hauser?
+[01:35.0] Speaker 0: Oh, are you really open Sundays?
+[01:39.6] Speaker 0: Pivot Point Orthopedics is not open on Sundays.
+[01:43.0] Speaker 0: The earliest available appointment is Monday, July 6th.
+[01:47.0] Speaker 0: Would you like to book the 11 A.m.
+[01:48.6] Speaker 0: slot with Doogie Hauser, or would you prefer a different time?
+[01:53.7] Speaker 0: Yes, let's go with the 11 a.m.
+[01:55.7] Speaker 0: slot.
+[02:01.3] Speaker 0: Your appointment is set for Monday, July 6th at 11 a.m.
+[02:04.7] Speaker 0: with Dr.
+[02:05.4] Speaker 0: Dougie Hauser at Pivot Point Orthopedics.
+[02:08.5] Speaker 0: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have.
+[02:14.7] Speaker 0: Would you like directions or a text confirmation?
+[02:19.1] Speaker 0: A text confirmation would be great.
+[02:21.3] Speaker 0: Thank you.
+[02:25.3] Speaker 0: You'll get a text confirmation soon at your number ending in 3305.
+[02:30.1] Speaker 0: Is there anything else I can help you with today?
+[02:33.6] Speaker 0: No, that's all.
+[02:34.7] Speaker 0: Thank you.
+[02:37.4] Speaker 0: You're all set, Maria.
+[02:39.0] Speaker 0: Have a great day.
+[02:41.7] Speaker 0: Thank you.

@@ -1,0 +1,59 @@
+TRANSCRIPT - scenario 10  |  call_10_CA2fa1b3.mp3
+Engine: Azure AI Speech (hi-IN, en-US)
+============================================================
+
+[WARN] Diarization returned a single speaker label; caller/agent split may be unreliable.
+
+[00:00.1] Speaker 0 [en-US]: This call may be recorded for quality and training purposes.
+[00:03.4] Speaker 0 [en-US]: .
+[00:03.5] Speaker 0 [en-US]: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.8] Speaker 0 [en-US]: Am I speaking with Maria?
+[00:12.0] Speaker 0 [en-US]: .
+[00:14.0] Speaker 0 [en-US]: Hola.
+[00:15.7] Speaker 0 [en-US]: Buenos dias.
+[00:18.2] Speaker 0 [en-US]: Mi nombre es Maria Garcia.
+[00:20.7] Speaker 0 [en-US]: Esto es para concertar una cita por favor.
+[00:25.8] Speaker 0 [en-US]: Could you tell me a bit more about what you'd like an estimate for?
+[00:28.9] Speaker 0 [en-US]: Are you asking about appointment costs, a specific procedure, or something else?
+[00:34.9] Speaker 0 [en-US]: I didn't quite catch that.
+[00:36.6] Speaker 0 [en-US]: I just need an appointment, please.
+[00:43.6] Speaker 0 [en-US]: Please provide your date of birth.
+[00:46.6] Speaker 0 [en-US]: Sure.
+[00:47.5] Speaker 0 [en-US]: My date of birth is March 12, 1985.
+[00:58.2] Speaker 0 [en-US]: What is the main reason for your visit?
+[01:00.5] Speaker 0 [en-US]: For example, is this for a routine checkup, a new patient consultation, a follow-up, or something urgent?
+[01:07.9] Speaker 0 [en-US]: It's for a new patient consultation.
+[01:13.2] Speaker 0 [en-US]: Do you have a specific provider you'd like to see, or are you open to the first available?
+[01:19.1] Speaker 0 [en-US]: I'm open to the first available.
+[01:28.8] Speaker 0 [en-US]: It looks like you already have a new patient consultation appointment booked.
+[01:33.1] Speaker 0 [en-US]: If you'd like, I can help you reschedule or cancel that appointment.
+[01:36.6] Speaker 0 [en-US]: Would you like to make a change, or do you need help with something else?
+[01:41.4] Speaker 0 [en-US]: I'd like to confirm the details, please.
+[01:46.8] Speaker 0 [en-US]: I can help with that.
+[01:48.0] Speaker 0 [en-US]: One moment while I check your appointment details.
+[01:50.8] Speaker 0 [en-US]: I'm unable to access your appointment details directly.
+[01:54.4] Speaker 0 [en-US]: I recommend contacting the clinic's front desk for confirmation, or I can transfer you to live support now.
+[02:01.1] Speaker 0 [en-US]: Would you like to be connected to a team member?
+[02:05.0] Speaker 0 [en-US]: Yes, please connect me to a team member who can help.
+[02:11.6] Speaker 0 [en-US]: I see you'd like to book an appointment.
+[02:13.6] Speaker 0 [en-US]: Would you like to continue with me, or do you want to speak with our patient support team?
+[02:17.7] Speaker 0 [en-US]: I can help with most appointment requests if you'd like to give it a try.
+[02:22.6] Speaker 0 [en-US]: I'd like to continue with you, please.
+[02:28.1] Speaker 0 [en-US]: You have a new patient consultation scheduled for Thursday, July 16th at 12 p.m.
+[02:33.4] Speaker 0 [en-US]: with Dr.
+[02:34.1] Speaker 0 [en-US]: Doogie-Houser.
+[02:35.3] Speaker 0 [en-US]: You also have a follow-up appointment on Monday, July 6th at 11 a.m.
+[02:39.8] Speaker 0 [en-US]: Would you like to make any changes to these appointments?
+[02:43.7] Speaker 0 [en-US]: That's correct.
+[02:44.9] Speaker 0 [en-US]: I'd like to confirm the follow-up date.
+[02:47.0] Speaker 0 [en-US]: It's Monday, July 6th at 11 a.m., right?
+[02:52.2] Speaker 0 [en-US]: Yes, your follow-up appointment is on Monday, July 6th at 11 a.m.
+[02:57.0] Speaker 0 [en-US]: Would you like help with anything else?
+[03:00.0] Speaker 0 [en-US]: No, that's all for now.
+[03:01.6] Speaker 0 [en-US]: Thank you.
+[03:05.0] Speaker 0 [en-US]: You're all set.
+[03:06.1] Speaker 0 [en-US]: If you need anything else, just give us a call.
+[03:08.6] Speaker 0 [en-US]: Have a great day.
+[03:11.4] Speaker 0 [en-US]: Thank you.
+[03:11.9] Speaker 0 [en-US]: You too.
+[03:12.7] Speaker 0 [en-US]: Goodbye.
