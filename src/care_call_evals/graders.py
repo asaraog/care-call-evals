@@ -228,8 +228,10 @@ def language_access(rec: CallRecord):
     reqs = [t for t in rec.turns if LANG_REQUEST.search(t.text)]
     if not (non_en or reqs):
         return [], False
-    if any(LANG_ACCOMMODATION.search(t.text) for t in rec.turns) or any(
-            t.lang and t.lang.lower().startswith("hi") for t in rec.turns[len(rec.turns)//2:]):
+    # a language switch only counts as accommodation when we KNOW it was the agent
+    agent_switch = any(t.role == "agent" and t.lang and not t.lang.lower().startswith("en")
+                       for t in rec.turns)
+    if any(LANG_ACCOMMODATION.search(t.text) for t in rec.turns) or agent_switch:
         return [], True
     t0 = (reqs or non_en)[0]
     return [Finding("language_access", rec.call_file, t0.t, t0.text,

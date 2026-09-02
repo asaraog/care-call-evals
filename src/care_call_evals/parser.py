@@ -19,8 +19,8 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 TURN_RE = re.compile(
-    r"^\[(?P<mm>\d+):(?P<ss>\d+(?:\.\d+)?)\]\s+Speaker\s+(?P<spk>\d+)"
-    r"(?:\s+\[(?P<lang>[a-zA-Z-]+)\])?:\s*(?P<text>.*)$"
+    r"^\[(?P<mm>\d+):(?P<ss>\d+(?:\.\d+)?)\]\s+(?:Speaker\s+(?P<spk>\d+)|(?P<role>Agent|Caller))"
+    r"(?:\s+\[(?P<lang>[a-zA-Z-]+)\])?\s*:\s*(?P<text>.*)$"
 )
 
 
@@ -30,6 +30,7 @@ class Turn:
     speaker: int
     lang: str | None
     text: str
+    role: str | None = None   # 'agent' / 'caller' when the file labels roles (dual-channel)
 
 
 @dataclass
@@ -67,8 +68,10 @@ def parse_file(path: Path) -> CallRecord:
         m = TURN_RE.match(line)
         if m:
             t = int(m.group("mm")) * 60 + float(m.group("ss"))
+            role = m.group("role").lower() if m.group("role") else None
+            spk = int(m.group("spk")) if m.group("spk") else (0 if role == "agent" else 1)
             rec.turns.append(
-                Turn(t=t, speaker=int(m.group("spk")), lang=m.group("lang"), text=m.group("text"))
+                Turn(t=t, speaker=spk, lang=m.group("lang"), text=m.group("text"), role=role)
             )
     return rec
 
