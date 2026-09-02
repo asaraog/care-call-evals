@@ -11,8 +11,8 @@ and reviewed by hand, producing [16 written findings](data/july_manual_review.md
 cost to the patient: a skipped insurance check reads as a pleasant call and becomes a
 surprise bill three weeks later. The transcripts are real Azure Speech-to-Text output
 (synthetic personas against my own demo agent, so no PHI) with the real mess of production
-STT — diarization collapses to one speaker and words are misheard — so findings are flags
-to review, not verdicts.
+STT (diarization collapses to one speaker, words are misheard), so findings are flags to
+review, not verdicts.
 
 ## Results
 
@@ -22,7 +22,7 @@ policy_disclosure: 8 of 8 applicable calls failed <br>
 transfer_follow_through: 7 of 11 <br>
 required_intake_steps: 6 of 6 <br>
 language_access: 2 of 2 <br>
-**Every booking omitted the cancellation policy and every failed transfer landed on the same test line — patterns the manual review had logged only two or three times.**
+**Every booking omitted the cancellation policy and every failed transfer landed on the same test line, patterns the manual review had logged only two or three times.**
 
 ## Files
 
