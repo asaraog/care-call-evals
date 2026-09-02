@@ -31,8 +31,7 @@ language_access: 2 of 2 <br>
 ## Files
 
 *evals.py:* \
-Parses transcripts and checks each call against every rubric dimension. One file, no
-framework; prints a per-dimension table and a severity-sorted findings list.
+Parses transcripts and checks each call against every rubric dimension.
 
 *rubric.yaml:* \
 The patient-care dimensions: what each checks, why it matters, grader type, severity.
