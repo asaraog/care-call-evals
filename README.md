@@ -8,7 +8,7 @@ and reviewed by hand, producing [16 written findings](data/july_manual_review.md
 [single script](evals.py) score every call instead, each dimension weighted by downstream
 cost to the patient: a skipped insurance check reads as a pleasant call and becomes a
 surprise bill three weeks later. The transcripts are real Azure Speech-to-Text output
-(synthetic personas against my own demo agent, so no PHI) with the real mess of production
+(synthetic personas against a demo agent, so no PHI) with the real mess of production
 STT (diarization collapses to one speaker, words are misheard). Across 34 calls the script
 produced 26 findings, rediscovering 10 of the 12 hand-logged issues the rubric covers and
 surfacing patterns, such as omitting the cancellation policy, that the manual review had
