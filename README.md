@@ -7,16 +7,12 @@ matter for patient care. In July, 50 test calls were placed against a demo clini
 using an adversarial harness ([Voice Bot Bug Finder](https://saraogee.com/VoiceBotBugFinder))
 and reviewed by hand, producing [16 written findings](data/july_manual_review.md). Here, a
 [rubric](rubric.yaml) of ten deterministic patient-care dimensions and a
-[single script](evals.py) score every call instead. Each dimension carries a severity
-weighted by downstream cost to the patient: a skipped insurance check reads as a pleasant
-call and becomes a surprise bill three weeks later. The manual review logged that class of
-failure a few times; the script finds it in every applicable call.
-
-The transcripts are real Azure Speech-to-Text output of real calls (synthetic personas
-against my own demo agent, so no PHI) with the real mess of production STT: diarization
-collapses to one speaker and words are misheard, so findings are flags to review, not
-verdicts. Tone and empathy are judge-model dimensions and ship disabled until validated
-against human labels.
+[single script](evals.py) score every call instead, each dimension weighted by downstream
+cost to the patient: a skipped insurance check reads as a pleasant call and becomes a
+surprise bill three weeks later. The transcripts are real Azure Speech-to-Text output
+(synthetic personas against my own demo agent, so no PHI) with the real mess of production
+STT — diarization collapses to one speaker and words are misheard — so findings are flags
+to review, not verdicts.
 
 ## Results
 
