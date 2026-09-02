@@ -10,7 +10,7 @@ cost to the patient: a skipped insurance check reads as a pleasant call and beco
 surprise bill three weeks later. The transcripts are real Azure Speech-to-Text output
 (synthetic personas against my own demo agent, so no PHI) with the real mess of production
 STT (diarization collapses to one speaker, words are misheard), so findings are flags to
-review, not verdicts. Across 34 calls the script produced 26 findings: every finalized booking omitted the cancellation policy, every failed transfer landed on the same test line, and every new-patient booking skipped insurance, patterns the manual review had logged only two or three times.
+review, not verdicts. Across 34 calls the script produced 26 findings, such as omitting the cancellation policy, patterns the manual review had logged only two or three times.
 
 ## Files
 
