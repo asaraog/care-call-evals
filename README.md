@@ -1,7 +1,5 @@
 # Evaluating Healthcare Voice Agents with a Patient-Care Rubric
 
-## Project Summary
-
 This project automatically evaluates voice-agent phone calls against the dimensions that
 matter for patient care. In July, 50 test calls were placed against a demo clinic agent
 using an adversarial harness ([Voice Bot Bug Finder](https://saraogee.com/VoiceBotBugFinder))
@@ -12,7 +10,17 @@ cost to the patient: a skipped insurance check reads as a pleasant call and beco
 surprise bill three weeks later. The transcripts are real Azure Speech-to-Text output
 (synthetic personas against my own demo agent, so no PHI) with the real mess of production
 STT (diarization collapses to one speaker, words are misheard), so findings are flags to
-review, not verdicts. Across 34 calls the script produced 26 findings: every finalized booking omitted the cancellation policy, every failed transfer landed on the same test line, and every new-patient booking skipped insurance, patterns the manual review had logged only two or three times.
+review, not verdicts.
+
+## Results
+
+34 calls · 10 dimensions · 26 findings <br>
+
+policy_disclosure: 8 of 8 applicable calls failed <br>
+transfer_follow_through: 7 of 11 <br>
+required_intake_steps: 6 of 6 <br>
+language_access: 2 of 2 <br>
+**Every booking omitted the cancellation policy and every failed transfer landed on the same test line, patterns the manual review had logged only two or three times.**
 
 ## Files
 
